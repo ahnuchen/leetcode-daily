@@ -4,7 +4,7 @@
   "description": "leetcode",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha ./"
   },
   "repository": {
     "type": "git",
@@ -16,10 +16,8 @@
     "url": "https://github.com/ahnuchen/leetcode-daily/issues"
   },
   "homepage": "https://github.com/ahnuchen/leetcode-daily#readme",
-  "devDependencies": {
-    "mocha": "^7.1.0"
-  },
   "dependencies": {
+    "mocha": "^7.1.0",
     "should": "^13.2.3"
   }
 }
