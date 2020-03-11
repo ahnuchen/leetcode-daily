@@ -1,0 +1,25 @@
+{
+  "name": "leetcode-daily",
+  "version": "1.0.0",
+  "description": "leetcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahnuchen/leetcode-daily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahnuchen/leetcode-daily/issues"
+  },
+  "homepage": "https://github.com/ahnuchen/leetcode-daily#readme",
+  "devDependencies": {
+    "mocha": "^7.1.0"
+  },
+  "dependencies": {
+    "should": "^13.2.3"
+  }
+}
