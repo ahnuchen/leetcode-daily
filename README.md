@@ -1,3 +1,3 @@
-# My personal daily train leetcode questions
+# leetcode每日一题
 
-https://github.com/azl397985856/leetcode
+https://leetcode-cn.com/problemset/all/
